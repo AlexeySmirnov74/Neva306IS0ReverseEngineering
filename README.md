@@ -1,2 +1,2 @@
 # Neva306ISOReverseEngineering
-Electricity meter Neva 306 ISO. Электросчетчик НЕВА 306 Изменение показаний в микросхеме памяти
+Electricity meter Neva 306 IS0. Электросчетчик НЕВА 306 Изменение показаний в микросхеме памяти
